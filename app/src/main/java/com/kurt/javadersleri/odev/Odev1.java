@@ -1,4 +1,4 @@
-package com.kurt.javadersleri.degiskenler;
+package com.kurt.javadersleri.odev;
 
 public class Odev1 {
     public static void main(String[] args) {
