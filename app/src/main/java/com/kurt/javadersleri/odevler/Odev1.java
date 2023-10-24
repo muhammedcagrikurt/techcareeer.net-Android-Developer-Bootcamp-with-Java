@@ -39,7 +39,7 @@ public class Odev1 {
         System.out.println("Satılan Miktar : "+satilanMiktar+" Adet");
         String telefonModeli = "iPhone 15 Pro";
         System.out.println("Telefon Modeli : "+telefonModeli);
-        String dergiAdi = "Türbitak Bilim";
+        String dergiAdi = "Tübitak Bilim";
         System.out.println("Dergi Adı : "+dergiAdi);
         String basimTarihi = "15.05.2023";
         System.out.println("Basım Tarihi : "+basimTarihi);
@@ -49,7 +49,7 @@ public class Odev1 {
         System.out.println("Daire Sayısı : "+daireSayisi);
         String enlem = "36° - 42°";
         System.out.println("Türkiye'nin Enlemi : "+enlem );
-        String boylam = "26° - 45";
+        String boylam = "26° - 45°";
         System.out.println("Türkiye'nin Boylamı : "+boylam);
         String yemekAdi = "Cağ kebabı";
         System.out.println("Yemek Adı : "+yemekAdi);
@@ -86,11 +86,11 @@ public class Odev1 {
         String yolculukCikisTarihi = "05.05.2005";
         System.out.println("Yolculuk Çıkış Tarihi : "+yolculukCikisTarihi);
         String mahalleAdi = "Şükrüpaşa";
-        System.out.println("Mahalle Adı : "+mahalleAdi+"Mahallesi");
+        System.out.println("Mahalle Adı : "+mahalleAdi+" Mahallesi");
         String otobusHatti = "G3";
         System.out.println("Otobüs Hattı : "+otobusHatti);
         int kullanilanDakika = 55;
-        System.out.println("Kullanılan Dakika: "+kullanilanDakika+"Dakika");
+        System.out.println("Kullanılan Dakika: "+kullanilanDakika+" Dakika");
         String kargoTakipNo = "AA325454";
         System.out.println("Kargo Takip Numarası : "+kargoTakipNo);
         double kuponSuresi = 45.05;
