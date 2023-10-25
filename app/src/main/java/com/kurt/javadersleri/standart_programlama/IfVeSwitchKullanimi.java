@@ -68,7 +68,7 @@ public class IfVeSwitchKullanimi {
             case 7:
                 System.out.println("Pazar");
                 break;
-            default: // hiçbir case şartı sağlanmazsa default çalışır
+            default: // hiçbir case şartı sağlanmazsa default çalışır if yapısındaki else gibi
                 System.out.println("Böyle bir gün yok");
         }
 
