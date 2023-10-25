@@ -16,7 +16,7 @@ public class ArabaMain {
         System.out.println("Hız          : "+bmw.hiz);
         System.out.println("Çalışıyor Mu : "+bmw.calisiyorMu);
 
-        //Yazdığmız Fonksiyon İle Değer Okuma
+        //Yazdığımız Fonksiyon İle Değer Okuma
         bmw.bilgiAl();
 
         Araba sahin = new Araba();
