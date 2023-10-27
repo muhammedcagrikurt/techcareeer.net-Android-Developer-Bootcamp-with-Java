@@ -14,7 +14,8 @@ public class Araba {
 
     public Araba(String renk,int hiz,boolean calisiyorMu){
         //this = Araba , bulunduğu class'ı temsil eder.
-        // this ile hangi değerin sışardan hangi değerin sınıftan olduğunu belirtik
+        // this ile hangi değerin dışardan hangi değerin sınıftan olduğunu belirtik
+        // self (swift) = this'in swift dilindeki karşılığı
         this.renk = renk; // Shadowing = Gölgeleme
         this.hiz = hiz;
         this.calisiyorMu = calisiyorMu;
@@ -37,7 +38,6 @@ public class Araba {
 
     public void bilgiAl(){ //public her yerden erişilebilir demek
         // araba classından oluşturduğumuz her nesne bu fonksiyona ulaşabilir
-        // self (swift) = this
         System.out.println("----------------------------");
         System.out.println("Renk         : "+renk);
         System.out.println("Hız          : "+hiz);

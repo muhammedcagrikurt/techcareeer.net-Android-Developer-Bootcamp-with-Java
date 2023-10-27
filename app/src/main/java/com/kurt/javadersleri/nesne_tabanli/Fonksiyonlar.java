@@ -26,7 +26,7 @@ public class Fonksiyonlar {
     }
 
     //overloading
-    // aynı class içinde aynı fonksiyonu farklı türlerde kullanmka için
+    // aynı class içinde aynı fonksiyonu farklı şekilde kullanmak için
     public void carp(int sayi1,int sayi2){
         System.out.println("Çarpma : "+(sayi1*sayi2));
     }
