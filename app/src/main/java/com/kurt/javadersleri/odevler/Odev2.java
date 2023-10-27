@@ -18,7 +18,16 @@ public class Odev2 {
         return faktoriyel*soru3(faktoriyel-1);
     }
 
-    public void soru4(){}
+    public int soru4(String kelime){
+        int adet =0;
+        for (int i=0;i<kelime.length();i++){
+            if (kelime.charAt(i)=='e'){ //charAt string içindeki belirli bir pozisyondaki
+                // karakteri almak için kullanılan bir metot.
+                adet++;
+            }
+        }
+        return adet;
+    }
 
     public double soru5(double kenarSayisi){
         return (((kenarSayisi-2)*180)/kenarSayisi);

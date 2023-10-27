@@ -14,7 +14,8 @@ public class Odev2Main {
         System.out.println("Faktoriyel : "+faktoriyel);
         System.out.println("-----------------");
 
-        o2.soru4();
+        int kelimeSayisi = o2.soru4("Cumhuriyet");
+        System.out.println("Kelime içindeki e harfi Sayısı : "+kelimeSayisi);
         System.out.println("-----------------");
 
         double icaci= o2.soru5(10);
