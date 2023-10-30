@@ -10,7 +10,7 @@ public class StaticKullanimi {
         // Sanal nesne , isimsiz nesne (Virtual or nameless object)
         //System.out.println(new ASinifi().x);//new ASinifi()= a; 1. nesne
         //new ASinifi().metod(); // 2. nesne  1. ve 2. nesye aynı nesne değil
-        // bu yöntem hafıza fazla kullnılır
+        // bu yöntem hafıza fazla kullanır
 
         System.out.println(ASinifi.x);
         ASinifi.metod();
