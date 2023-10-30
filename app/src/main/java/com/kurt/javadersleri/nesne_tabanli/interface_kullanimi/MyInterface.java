@@ -7,7 +7,7 @@ public interface MyInterface {
 
 }
 // implements keyword' ü kullanılır
-//birden fazla sınıf ( class ) eklenenilir
+//birden fazla sınıf ( class ) eklenenilir kalıtımda tek sınıf eklenebilir
 //taslak yapı oluşturulabilir
 // bir sınıf eklendiğinde içindeki methodlar eklenmek zorunda kalıtımda zorunlu değil
 

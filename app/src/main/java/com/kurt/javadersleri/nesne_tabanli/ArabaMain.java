@@ -3,7 +3,7 @@ package com.kurt.javadersleri.nesne_tabanli;
 public class ArabaMain {
     public static void main(String[] args) {
         //Nesne oluşturma
-        //Araba bmw = new Araba() // new yeni nesne oluştuyoruz mantığında
+        //Araba bmw = new Araba(); // new yeni nesne oluştuyoruz mantığında
         Araba bmw = new Araba("Mavi",100,true); //Constructor ile nesne
         // oluşturduğumuzda değerde atadık
 
